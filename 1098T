@@ -1,4 +1,4 @@
-result=0&
+<cashnet>result=0&
      respmessage=success&
      lname=senthil &
      pin=&
@@ -32,3 +32,4 @@ result=0&
      service_provider_acctno=&
      reporting_method=&
      corrected=
+</cashnet>
