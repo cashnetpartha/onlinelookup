@@ -8,8 +8,9 @@ addr2=&
 addr3=&
 email=zigzag8@gmail.com&
 ALTID1=P21563&
-ALTID1type=P&
+ALTID1TYPE=P&
 ALTID2=A21563&
-ALTID2type=A&
+ALTID2TYPE=A&
 ALTIDEMAIL1=alt@alt.com
+ALTID1ACTIVEFLAG=Y
 </cashnet>
