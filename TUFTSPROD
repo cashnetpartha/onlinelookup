@@ -1,0 +1,13 @@
+<cashnet>result=0&
+     lname=DASILVEIRA&
+     fname=BRUNO&
+     custcode=1472206&
+     custotherdata=<?
+     xml version="1.0"?
+     ><CASHNET><tufts_dynamic_billing><heading><TITLE>Recent Unbilled Activity</TITLE></heading><details><dtl_line><TERM></TERM><POSTED_DATETIME></POSTED_DATETIME><DESCRIPTION></DESCRIPTION><AMOUNT>0.00</AMOUNT></dtl_line></details><detail_total><TOTAL>0</TOTAL></detail_total></tufts_dynamic_billing></CASHNET>&
+     email=Bruno.Da_Silveira@tufts.edu&
+     notecode=REG&
+     itemcnt=1&
+     itemcode=BAL&
+     balance=1297&
+     custattr1=1297</cashnet>
