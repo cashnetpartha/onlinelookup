@@ -1,0 +1,14 @@
+<cashnet>result=0&
+     respmessage=success&
+     custcode=07700005991&
+     lname=Srinivasulu&
+     fname=Pavan Kumar&
+     email=test.edu&
+     billno=AP_25_SQ&
+     itemcode=WDACCOUNT001&
+     balance=4440&
+     itemcnt=1&
+     ippsourceamountcode=WDIPPBALANCE&
+     termcode=AP_25_SQ&
+     amount=4440&
+     ippsrcamtcnt=1</cashnet>
