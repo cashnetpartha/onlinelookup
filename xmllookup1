@@ -1,0 +1,33 @@
+<CustomerLookupResultDS>
+	<LookupResult>
+		<result>0</result>
+		<respmessage>Successful lookup</respmessage>
+		<cust_code>REG2024</cust_code>
+		<last_name>Subramanian</last_name>
+		<first_name>Meenatchi Sundaram</first_name>
+		<address_1>Marine Village parkway</address_1>
+		<address_2>ALAMEDA</address_2>
+		<address_3>CA</address_3>
+		<city>Alameda</city>
+		<state>CA</state>
+		<zip>32606</zip>
+		<country>USA</country>
+		<area_code>415</area_code>
+		<phone_number>123456789</phone_number>
+		<email_id>meenatchisundaram.subramaniam20@transactcampus.com</email_id>
+		<dob>01/01/1970</dob>
+	</LookupResult>
+	<items>
+		<item_code>WINTER 2017</item_code>
+		<item_description>WINTER 2017 Updated Description</item_description>
+		<bill_no>WINTER 2017</bill_no>
+		<bill_desc>WINTER 2017</bill_desc>
+		<balance_due>-9195</balance_due>
+		<minimum_due>-9195</minimum_due>
+	</items>	
+	<IPPSourceAmount/>
+	<notes>
+		<multi_note_code>Note2</multi_note_code>
+		<multi_note_std_view>N</multi_note_std_view>
+	</notes>
+</CustomerLookupResultDS>
